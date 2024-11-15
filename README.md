@@ -16,12 +16,12 @@ node index.js
 
 ### Step 3: Go to Mongo Atlas collection and update some data
 
-![alt text](assets\update-date-in-atlas.png)
+![alt text](assets\\update-date-in-atlas.png)
 
 In the console, you will see something like this:
 
-![alt text](assets\result-in-console.png)
+![alt text](assets\\result-in-console.png)
 
 And the browser at local:3000, this will be shown:
 
-![alt text](assets\result-in-browser.png)
+![alt text](assets\\result-in-browser.png)
